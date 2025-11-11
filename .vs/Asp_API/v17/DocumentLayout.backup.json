@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Demo_prj\\Asp_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|solutionrelative:asp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|solutionrelative:asp_api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|solutionrelative:asp_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|solutionrelative:asp_api\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|solutionrelative:asp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C881828-3542-4E2E-AF14-5EE29FDEC857}|Asp_API\\Asp_API.csproj|c:\\demo_prj\\asp_api\\asp_api\\asp_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Asp_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Demo_prj\\Asp_API\\Asp_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Asp_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T08:00:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Asp_API\\Controllers\\TodoController.cs",
-              "ToolTip": "C:\\Demo_prj\\Asp_API\\Asp_API\\Controllers\\TodoController.cs*",
-              "RelativeToolTip": "Asp_API\\Controllers\\TodoController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Demo_prj\\Asp_API\\Asp_API\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Asp_API\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T06:23:09.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Program.cs",
               "RelativeDocumentMoniker": "Asp_API\\Program.cs",
               "ToolTip": "C:\\Demo_prj\\Asp_API\\Asp_API\\Program.cs",
               "RelativeToolTip": "Asp_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T06:22:40.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ITodoService.cs",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Service\\ITodoService.cs",
               "RelativeDocumentMoniker": "Asp_API\\Service\\ITodoService.cs",
@@ -80,12 +97,11 @@
               "RelativeToolTip": "Asp_API\\Service\\ITodoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T06:21:33.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T06:21:33.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TodoService.cs",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Service\\TodoService.cs",
               "RelativeDocumentMoniker": "Asp_API\\Service\\TodoService.cs",
@@ -93,12 +109,11 @@
               "RelativeToolTip": "Asp_API\\Service\\TodoService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T06:11:35.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T06:11:35.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Model\\Todo.cs",
               "RelativeDocumentMoniker": "Asp_API\\Model\\Todo.cs",
@@ -106,21 +121,19 @@
               "RelativeToolTip": "Asp_API\\Model\\Todo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T06:09:53.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T06:09:53.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Asp_API",
+              "DocumentIndex": 5,
+              "Title": "Asp_API.csproj",
               "DocumentMoniker": "C:\\Demo_prj\\Asp_API\\Asp_API\\Asp_API.csproj",
               "RelativeDocumentMoniker": "Asp_API\\Asp_API.csproj",
               "ToolTip": "C:\\Demo_prj\\Asp_API\\Asp_API\\Asp_API.csproj",
               "RelativeToolTip": "Asp_API\\Asp_API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-11T06:09:29.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T06:09:29.026Z"
             }
           ]
         }

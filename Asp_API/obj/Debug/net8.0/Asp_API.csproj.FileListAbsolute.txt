@@ -33,3 +33,4 @@ C:\Demo_prj\Asp_API\Asp_API\obj\Debug\net8.0\refint\Asp_API.dll
 C:\Demo_prj\Asp_API\Asp_API\obj\Debug\net8.0\Asp_API.pdb
 C:\Demo_prj\Asp_API\Asp_API\obj\Debug\net8.0\Asp_API.genruntimeconfig.cache
 C:\Demo_prj\Asp_API\Asp_API\obj\Debug\net8.0\ref\Asp_API.dll
+C:\Demo_prj\Asp_API\Asp_API\obj\Debug\net8.0\Asp_API.sourcelink.json
