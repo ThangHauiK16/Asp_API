@@ -8,14 +8,17 @@ builder.Services.AddControllers();
 // --- Bước 1: Thêm CORS ---
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost",
-        policy =>
-        {
-            policy.WithOrigins("http://127.0.0.1:5500") 
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowLocalhost", policy =>
+    {
+        policy.WithOrigins(
+            "http://127.0.0.1:5500",
+            "http://127.0.0.1:5501"
+        )
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
 });
+
 
 
 builder.Services.AddEndpointsApiExplorer();
